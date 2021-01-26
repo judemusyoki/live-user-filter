@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #eee;
+  background-color: #2a2a72;
   background-image: url('https://www.transparenttextures.com/patterns/cubes.png');
   font-family: 'Roboto', sans-serif;
   display: flex;
@@ -34,7 +34,7 @@ body {
 }
 
 .header {
-  background-color: #3e57db;
+  background-color: #4c2885;
   color: #fff;
   padding: 30px 20px;
 }

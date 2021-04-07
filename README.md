@@ -1,2 +1,2 @@
 # live-user-filter
-A filter widget used to filter user profiles built using JavaScript and sample API data.
+An app built using vanilla JavaScript filters user profiles from sample API data.
